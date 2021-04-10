@@ -1,1 +1,2 @@
-# Merge-Sort
+# Sorting-Algorithms
+Author: Allan Rono
